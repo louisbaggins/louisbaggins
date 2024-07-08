@@ -1,6 +1,6 @@
 ## Hi, I'm Luís Araújo 👋
 
-- 🔭 Senior Software Engineer at @blip
+- 🔭 Senior Software Engineer at @takenet
 - 🧑‍🎓 System Engineering undergraduate at @ufmg
 - 🇧🇷 Belo Horizonte, MG, Brazil
 <!--
